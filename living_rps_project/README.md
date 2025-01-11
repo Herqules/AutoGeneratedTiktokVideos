@@ -1,6 +1,4 @@
-# Clone of livingrps
-
-[@livingrps TikTok](https://www.tiktok.com/@livingrps)
+# LivingRPS project
 
 ```
 $ pip install -r requirements.txt
